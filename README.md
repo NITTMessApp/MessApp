@@ -5,6 +5,7 @@
 1. Click on the **'View Code'** button
 2. Then select the file **NITT-Mess-Release.apk** 
 3. Click on the **View raw** or **Download** button
+4. Enable Install from unknown sources, if prompted by the installer during the installation process
 
 ## About
 
