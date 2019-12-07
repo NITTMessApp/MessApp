@@ -52,3 +52,8 @@ Register for mess, right from the app
 Track your Mess Registration History from the app
 
 ![Image of Leave App](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/Registration%20History.png)
+
+## Contributors
+* [Swapnil Bhattacharjee](https://github.com/SwapnilB31)
+* [Tanmoy Golder](https://github.com/TanmoyGolder) - Icon, Graphics
+* [Mithil Panchal](https://github.com/Mithil007)
