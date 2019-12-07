@@ -1,5 +1,13 @@
 # NITT Mess App
 
+## How to Download
+
+1. Click on the **'View Code'** button
+2. Then select the file **NITT-Mess_Release.apk** 
+3. Click on the **View raw** or **Download** button
+
+## About
+
 The official App for your daily dining.
 The App tries to automate a lot of the processes associated with your expeirence at Messes with a one-click solution in the App.
 We take a look at a few of the features. But before that we talk about setup.
