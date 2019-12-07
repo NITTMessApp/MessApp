@@ -3,7 +3,7 @@
 ## How to Download
 
 1. Click on the **'View Code'** button
-2. Then select the file **NITT-Mess_Release.apk** 
+2. Then select the file **NITT-Mess-Release.apk** 
 3. Click on the **View raw** or **Download** button
 
 ## About
