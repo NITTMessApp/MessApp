@@ -7,15 +7,17 @@
 3. Click on the **View raw** or **Download** button
 4. Enable Install from unknown sources, if prompted by the installer during the installation process
 
-## About
-
-The official App for your daily dining.
-The App tries to automate a lot of the processes associated with your expeirence at Messes with a one-click solution in the App.
-We take a look at a few of the features. But before that we talk about setup.
+## Setup
 
 To start using this app, you'll have to activate your account. Once you've downloaded the app and installed it, go to the Reset Password Page
 and enter your Roll Number to request a password reset link. A link for one time use only will be sent to your webmail inbox, and you can use
 it to set your password. Please note that this is not the same as your webmail password.
+
+## About
+
+The official App for your daily dining.
+The App tries to automate a lot of the processes associated with your expeirence at Messes with a one-click solution in the App.
+We take a look at a few of the features.
 
 ## Token Generation
 ![Image of Home](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/Home.png)
