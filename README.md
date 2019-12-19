@@ -5,6 +5,14 @@
 1. Go to [https://play.google.com/store/apps/details?id=com.nitt.mess1&hl=en](https://play.google.com/store/apps/details?id=com.nitt.mess1&hl=en)
 2. Press the Install Button
 
+## ~~Install From Source~~ (Deprecated)
+
+1. ~~Click on the **View Code** button~~
+2. ~~Select the **NITT-Mess-Release.apk** file~~
+3. ~~Click on the **View Raw** or **Download** button~~
+4. ~~Allow installation from unknown sources, if prompted during installation~~
+
+
 ## Setup
 
 To start using this app, you'll have to activate your account. Once you've downloaded the app and installed it, go to the Reset Password Page
