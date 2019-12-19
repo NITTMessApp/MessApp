@@ -2,10 +2,8 @@
 
 ## How to Download
 
-1. Click on the **'View Code'** button
-2. Then select the file **NITT-Mess-Release.apk** 
-3. Click on the **View raw** or **Download** button
-4. Enable Install from unknown sources, if prompted by the installer during the installation process
+1. Go to [https://play.google.com/store/apps/details?id=com.nitt.mess1&hl=en](https://play.google.com/store/apps/details?id=com.nitt.mess1&hl=en)
+2. Press the Install Button
 
 ## Setup
 
