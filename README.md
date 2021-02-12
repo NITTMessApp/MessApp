@@ -26,30 +26,30 @@ The App tries to automate a lot of the processes associated with your expeirence
 We take a look at a few of the features.
 
 ## Token Generation
-![Image of Home](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/Home.png)
+![Image of Home](https://raw.githubusercontent.com/NITTMessApp/MessApp/master/Screenshots/Home.png)
 For every meal you eat, you will generate a unique QR Code that can be used as a token and availed once at the mess. The Mess Manager will scan
 the QR on the Manager App, and you can proceed to dining. The QR is the only document you need. I-Cards and Mess Cards are not necessary.
 
 ## Saving Tokens
 This is the one offline feature of this app. You can save generated token in your app, and load them directly without contacting our servers
 
-![Image of QR](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/QR.png)
-![Image of Saved Token](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/Saved%20Token.png)
+![Image of QR](https://raw.githubusercontent.com/NITTMessApp/MessApp/master/Screenshots/QR.png)
+![Image of Saved Token](https://raw.githubusercontent.com/NITTMessApp/MessApp/master/Screenshots/Saved%20Token.png)
 
 ## Leave Application
 Apply for leaves and Mess Reduction directly from the app. Just fill the form and it will be sent to your respective warden for approval. If approved,
 the reduction will show up in the mess bill
 
-![Image of Leave App](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/Leave%20Application.png)
+![Image of Leave App](https://raw.githubusercontent.com/NITTMessApp/MessApp/master/Screenshots/Leave%20Application.png)
 
 ## Leave Application Status
 Check the status of your application 
-![Image of Leave App](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/Leave%20Application%20Status.png)
+![Image of Leave App](https://raw.githubusercontent.com/NITTMessApp/MessApp/master/Screenshots/Leave%20Application%20Status.png)
 
 ## Dining History
 
 Track your daily dining history
-![Image of Leave App](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/Dining%20History.png)
+![Image of Leave App](https://raw.githubusercontent.com/NITTMessApp/MessApp/master/Screenshots/Dining%20History.png)
 
 ## Registration
 
@@ -59,7 +59,7 @@ Register for mess, right from the app
 
 Track your Mess Registration History from the app
 
-![Image of Leave App](https://github.com/NITTMessApp/MessApp/blob/master/Screenshots/Registration%20History.png)
+![Image of Leave App](https://raw.githubusercontent.com/NITTMessApp/MessApp/master/Screenshots/Registration%20History.png)
 
 ## Contributors
 * [Swapnil Bhattacharjee](https://github.com/SwapnilB31)
