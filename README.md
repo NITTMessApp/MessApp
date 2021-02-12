@@ -66,5 +66,5 @@ Track your Mess Registration History from the app
 * [Tanmoy Golder](https://github.com/TanmoyGolder) - Icon, Graphics
 * [Mithil Panchal](https://github.com/Mithil007)
 
-## Designed and Deveoped By:
+## Designed and Developed By:
 * [Pi Club, NIT Trichy](https://www.linkedin.com/company/pi-club-nit-trichy/)
